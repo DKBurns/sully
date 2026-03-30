@@ -1,7 +1,15 @@
 
 Running the App Errors:
-- (Treatment Costs Pane) Shared input/output ID was found The following ID was used for more than one input/output: "inputTreatmentCosts": 1 input and 1 output (Look at inputsCostsIN.R and inputsTreatmentCosts.R)
-- (Economic Outcomes Pane) Duplicate input IDs were found error - The following IDs were used for more than one input/output: "resultSubsetSelector": 2 inputs (Look at resultsEconomicServer.R)
+- Duplicate input IDs were found: The following IDs were used for more than one input/output:
+	"inputTreatmentCosts": 1 input and 1 output (Look at inputsCostsIN.R and inputsTreatmentCosts.R)
+	"thresholdParameterSelect": 1 input and 1 output 
+	"thresholdTwowayParameterSelect": 1 input and 1 output
+	"resultSubsetSelector": 2 inputs (Look at resultsEconomicServer.R)
+	"thresholdAnalysisComparator": 2 inputs
+
+- Shiny server has sent a progress message for input_table, but the output is in an unexpected state of: running
+- Shiny server sent a message that the output 'input_table' has been recalculated but the output is in an unexpected state of: 'idle'.
+
 
 Visual Scan of Code: 
 App.r : 
