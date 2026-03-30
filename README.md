@@ -1,4 +1,4 @@
-# Sully's README 
+# Sully's README
 
 ## The idea
 
@@ -11,7 +11,7 @@ once:
   - Learnings/notes (e.g., 1:1 meeting notes)
   - Feedback
   - Examples of things in code
-- Gives some practice: with 
+- Gives some practice: with
   - working with `git`
   - collaborating on code
   - `markdown`, which we use a lot
@@ -47,13 +47,12 @@ Just a rough list of general objectives at the moment!
 Main task is to help me get the QC done as I can't do it alone given all
 the other stuff I'm juggling at the moment
 
-1.  Tasks
+1. Tasks
 
     For most of these, I'll be working in parallel to you already. Don't
     worry about posting the same issue, I'll consolidate everything at
     the end.
-
-    1.  Code/technical
+    1. Code/technical
 
         Basically, help me make a strategy for technical QC!
 
@@ -77,12 +76,12 @@ the other stuff I'm juggling at the moment
         to the raw data in the calculation chain, and collating anything
         you can see which isn't right or is hard to follow
 
-    2.  Server
+    2. Server
 
         There's plenty to talk about in the server, and I've raised some
         issues already. Feel free to raise more and categorise them etc
 
-    3.  UI
+    3. UI
 
         Point out UI issues with screenshots and circles in issues.
 
@@ -99,7 +98,7 @@ the other stuff I'm juggling at the moment
   the population which gets updated every cycle, rather than row updates
 - I'll get you access to this repo so you can have a look
 
-1.  Code task
+1. Code task
 
     In terms of help, the immediate task is to extend the way AEs are
     incorporated into the model by allowing a rate for 1st cycle and
@@ -109,7 +108,6 @@ the other stuff I'm juggling at the moment
 
     What I would like you to do as a bit of a challenge/learning chance
     is:
-
     - Make an issue themed around your reading/learning
     - Make a branch associated with that issue
     - Explore the current (very large) codebase, and have fun comparing
@@ -129,22 +127,19 @@ the other stuff I'm juggling at the moment
 
 ### BD
 
-1.  AZ proposals
-
-    1.  New one for full model build
+1. AZ proposals
+    1. New one for full model build
 
         RFP came through 27th. Rob responded yesterday morning. Proposal
         deadline is April 17th, but it's for a large project. I'll get
         details from Rob today
 
-    2.  Bax external validation scoping review proposal
-
+    2. Bax external validation scoping review proposal
         - Bit like a TLR, but probably don't have time to do formal TLR
         - Folder access with examples in it already, client informed of
           us of this yesterday
 
-    3.  Bax external validation proposal
-
+    3. Bax external validation proposal
         - Email from client
         - Jeiling mentioned something to do with another external
           validation that's done already and how we could draw
