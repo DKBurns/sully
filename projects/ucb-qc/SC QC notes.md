@@ -1,5 +1,9 @@
 
-Visual Scan of Code 
+Running the App Errors:
+- (Treatment Costs Pane) Shared input/output ID was found The following ID was used for more than one input/output: "inputTreatmentCosts": 1 input and 1 output (Look at inputsCostsIN.R and inputsTreatmentCosts.R)
+- (Economic Outcomes Pane) Duplicate input IDs were found error - The following IDs were used for more than one input/output: "resultSubsetSelector": 2 inputs (Look at resultsEconomicServer.R)
+
+Visual Scan of Code: 
 App.r : 
 - Should avoid hardcoding numbers (lines 447, 450, 462, 480 and 481)
 - Argument typo error on line 371 "patter" 
