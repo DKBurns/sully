@@ -28,7 +28,7 @@ once:
 
 The idea is that if you make changes you do the process, then upon review the other person can observe the changes made.
 
-```mmd
+```mermaid
 flowchart LR
 A["Make branch"]
 B["Make changes"]
