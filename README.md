@@ -26,20 +26,27 @@ once:
 
 ## Process
 
+The idea is that if you make changes you do the process, then upon review the other person can observe the changes made.
+
 ```mmd
-A
-B
-C
-D
+flowchart LR
+A["Make branch"]
+B["Make changes"]
+C["Commit"]
+D["PR"]
 
+current["Current state"]
 
+current --> A
 A --> B
 B --> C
 C --> D
 
-
+D --> current
 
 ```
+
+This lets you instantly see which tasks have been done, which have been added, amendments to other things. Fast clean reliable.
 
 ## Working days
 
