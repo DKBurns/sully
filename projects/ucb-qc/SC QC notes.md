@@ -1,4 +1,8 @@
 
+(Helpful Commands)
+reactiveValuesToList("values")
+observe({print(values$hsmIntNonSev()){)}})
+
 Running the App Errors:
 - Duplicate input IDs were found: The following IDs were used for more than one input/output:
 	"inputTreatmentCosts": 1 input and 1 output (Look at inputsCostsIN.R and inputsTreatmentCosts.R)
@@ -22,4 +26,5 @@ App.r :
 - Line 643 and onwards for generating the Markov trace; this could be written as a function to prevent repetition, passing the function with the arguments for the few parameters that do change between the treatment arms (population, comparator etc). 
 
 UI issues:
+
 
