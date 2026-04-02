@@ -1,7 +1,7 @@
 
 (Helpful Commands)
 reactiveValuesToList("values")
-observe({print(values$hsmIntNonSev()){)}})
+observe({print(values$hsmIntNonSev())})
 
 Running the App Errors:
 - Duplicate input IDs were found: The following IDs were used for more than one input/output:
