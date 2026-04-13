@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1 to 1 Meetings/13-04-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "13-04-2026"
             }
           }
         ]
@@ -196,9 +196,14 @@
   },
   "active": "98ee1376ea2906d2",
   "lastOpenFiles": [
+    "1 to 1 Meetings/30-03-2026.md",
+    "1 to 1 Meetings/01-04-2026.md",
+    "1 to 1 Meetings/13-04-2026.md",
+    "Dark Peak/Business Development/Main.md",
+    "Projects/Ongoing/AZ-baxdrostat/external-validation.md",
+    "README.md",
     "Projects/Ongoing/AZ-baxdrostat/main.md",
     "Projects/Ongoing/AZ-baxdrostat/scoping-review.md",
-    "Projects/Ongoing/AZ-baxdrostat/external-validation.md",
     "Projects/Ongoing/AZ-baxdrostat/continued-development.md",
     "Projects/AZ-Baxdrostat/Project Fundamentals.md",
     "Projects/Completed/UCB-QC/Main.md",
@@ -210,13 +215,8 @@
     "Projects/Ongoing",
     "Projects/Completed/UCB-QC",
     "Projects/Completed",
-    "1 to 1 Meetings/01-04-2026.md",
     "Untitled.base",
-    "README.md",
-    "Dark Peak/Business Development/Main.md",
     "Additional Notes/General.md",
-    "Dark Peak/AZ-baxdrostat/Main.md",
-    "1 to 1 Meetings/30-03-2026.md",
-    "1 to 1 Meetings/13-04-2026.md"
+    "Dark Peak/AZ-baxdrostat/Main.md"
   ]
 }

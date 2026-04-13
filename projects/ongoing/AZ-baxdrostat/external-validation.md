@@ -6,3 +6,7 @@ As of 2026-04-10, this project is partially blocked by `projects/ongoing/AZ-baxd
 
 However, we can already be making changes to the code to validate against the sources we know we will need to validate against. This includes several of the studies we have already identified in the scoping review.
 
+We will be making functions in the future that compares the model outcomes to outcomes from included appropriate papers. 
+Work backwards from the outcomes in Baxdrostat, find what's needed. 
+
+
