@@ -11,14 +11,14 @@
             "id": "98ee1376ea2906d2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "projects/AZ-baxdrostat/main.md",
-                "bFile": "projects/AZ-baxdrostat/main.md",
-                "aRef": ""
+                "file": "1 to 1 Meetings/01-04-2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: main  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "01-04-2026"
             }
           }
         ]
