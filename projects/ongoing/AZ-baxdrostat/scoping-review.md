@@ -1,12 +1,15 @@
 # Summary
 
 This project is to conduct a "scoping review" to identify and target a number of clinical / cohort studies as well as any as-yet unidentified cost-effectiveness studies which can be used to externally validate the baxdrostat cost-effectiveness model going to NICE this year.
+
 # Tasks
 
 ## Backlog
+
 I placed some of these into the slack channel to try that out, but if that method isn't nice, then we can ditch it!
 
 ### Design search strategy
+
 Generate some formal terms using pubmed, science direct, or scopus, whichever makes sense.
 
 #### Tasks
@@ -16,12 +19,14 @@ Generate some formal terms using pubmed, science direct, or scopus, whichever ma
 - Using the LLM list and filtering down to the real sources, then looking at associated papers from them (e.g. UKPDS-based studies) is probably the most efficient way, but we need to write up what our searching method is
 
 ### Conduct searches
+
 Self explanatory. This will likely be hard work.
+
 ### Collate abstracts
+
 I usually do a yes pile, a maybe pile and a no pile, then do a 2nd pass of the maybe pile.
 
 Here if you could get the raw text, and/or PMID number, and/or DOI reference for all of the yes and maybe pile then we can probably do something with an LLM afterwards!
-
 
 ### Screen abstracts
 
@@ -40,34 +45,45 @@ If each individual abstract is in a markdown format like:
 # DOI
 
 # Abstract
-
 ```
+
 where the abstract text is just the raw text dump, even if we don't have a DOI or PMID the LLM can use the text there to determine relevancy and potentially identify points for comparison.
 
 Following this, I can use `opencode` to establish and implement an agentic workflow to draft the review and propose a detailed plan for conducting the external validation.
 
-
 ### Collate shortlist
 
 most likely this will be partially done by generative AI
+
 ### Get access to all papers
-This is a human step. All the papers where we *need* to have full access that are not open access we will have to ask for AZ to pay for them. This is a necessary hold and hopefully will be minimal.
+
+This is a human step. All the papers where we _need_ to have full access that are not open access we will have to ask for AZ to pay for them. This is a necessary hold and hopefully will be minimal.
+
 ### Full text screening
+
 Possibly can be done with the LLM workflow
+
 ### PRISMA diagram
 
 I can do this in `R` or office, whichever.
+
 ### Collate extracted information
+
 Again, probably driven by the LLM in the first instance!
 
 ### Write report
+
 Necessary manual step, though LLM might give us a massive boost
+
 ### Send report to client
 
 Aiming to send draft End of April if we can, might be a bit too tight though.
 
-
 ## WIP
+
+### Client comms
+
+Jieling has sent a couple of emails with lots of information in them, and has provided us with links to the SLR reports, I'd like you to help me get through them and use whatever we can to help us design and implement this lit review!
 
 ### Read known materials and design extraction grid
 
@@ -90,8 +106,6 @@ This manifested 2026-04-09 in some back and forth with columns to go in the extr
 - Help expand the columns in the extraction grid to include the important things for inclusion/exclusion criteria as well as what to extract from included studies. Please note that our extraction will include clinical studies so focus on things we'd be able to make the microsimulation model produce!
 - Tell me when you've come up with a finial set of columns so I can review and tweak
 - Help me go through the papers we have again to collate our current information set
-
-
 
 ### Generate inclusion/exclusion criteria
 
