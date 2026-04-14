@@ -15,3 +15,7 @@ However, we can already be making changes to the code to validate against the so
   - [ ] Iterative design of the main function as we develop source-specific functions
   - [ ] Documenting the functions abut also the methodology / process for the report
   - [ ] Writing the introduction section of the report
+We will be making functions in the future that compares the model outcomes to outcomes from included appropriate papers. 
+Work backwards from the outcomes in Baxdrostat, find what's needed. 
+
+
