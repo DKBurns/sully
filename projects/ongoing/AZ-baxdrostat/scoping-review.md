@@ -1,13 +1,13 @@
 # Summary
 
-This project is to conduct a "scoping review" to identify and target a number of clinical / cohort studies as well as any as-yet unidentified cost-effectiveness studies which can be used to externally validate the baxdrostat cost-effectiveness model going to NICE this year.
+This project is to conduct a "scoping review" to identify and target a number of clinical / cohort studies as well as any as-yet unidentified cost-effectiveness studies which can be used to externally validate the Baxdrostat cost-effectiveness model going to NICE this year.
 # Tasks
 
 ## Backlog
 I placed some of these into the slack channel to try that out, but if that method isn't nice, then we can ditch it!
 
 ### Design search strategy
-Generate some formal terms using pubmed, science direct, or scopus, whichever makes sense.
+Generate some formal terms using PubMed, science direct, or Scopus, whichever makes sense.
 
 #### Tasks
 

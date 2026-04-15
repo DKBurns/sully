@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 to 1 Meetings/13-04-2026.md",
+                "file": "Projects/Ongoing/AZ-baxdrostat/scoping-review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13-04-2026"
+              "title": "scoping-review"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4e0d6f0d767e94d6",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,17 +194,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98ee1376ea2906d2",
+  "active": "5c6b14ec5b1092d5",
   "lastOpenFiles": [
-    "1 to 1 Meetings/30-03-2026.md",
-    "1 to 1 Meetings/01-04-2026.md",
-    "1 to 1 Meetings/13-04-2026.md",
-    "Dark Peak/Business Development/Main.md",
     "Projects/Ongoing/AZ-baxdrostat/external-validation.md",
-    "README.md",
-    "Projects/Ongoing/AZ-baxdrostat/main.md",
     "Projects/Ongoing/AZ-baxdrostat/scoping-review.md",
     "Projects/Ongoing/AZ-baxdrostat/continued-development.md",
+    "Projects/Ongoing/AZ-baxdrostat/main.md",
+    "1 to 1 Meetings/13-04-2026.md",
+    "1 to 1 Meetings/30-03-2026.md",
+    "Dark Peak/Business Development/Main.md",
+    "Additional Notes/General.md",
+    "1 to 1 Meetings/01-04-2026.md",
+    "README.md",
     "Projects/AZ-Baxdrostat/Project Fundamentals.md",
     "Projects/Completed/UCB-QC/Main.md",
     "Projects/Completed/UCB-QC/SC QC notes.md",
@@ -216,7 +217,6 @@
     "Projects/Completed/UCB-QC",
     "Projects/Completed",
     "Untitled.base",
-    "Additional Notes/General.md",
     "Dark Peak/AZ-baxdrostat/Main.md"
   ]
 }
