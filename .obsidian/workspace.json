@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Ongoing/AZ-baxdrostat/Meeting Notes/15-04-2026.md",
+                "file": "Projects/Ongoing/AZ-baxdrostat/external-validation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15-04-2026"
-            }
-          },
-          {
-            "id": "e85da8faeb76c9c4",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "external-validation"
             }
           }
         ]
@@ -210,12 +196,12 @@
   },
   "active": "98ee1376ea2906d2",
   "lastOpenFiles": [
-    "Projects/Ongoing/AZ-baxdrostat/scoping-review.md",
+    "Projects/Ongoing/AZ-baxdrostat/external-validation.md",
     "Projects/Ongoing/AZ-baxdrostat/Meeting Notes/15-04-2026.md",
+    "Projects/Ongoing/AZ-baxdrostat/scoping-review.md",
     "Projects/Ongoing/AZ-baxdrostat/Untitled/desktop.ini",
     "Projects/Ongoing/AZ-baxdrostat/Meeting Notes",
     "Projects/Ongoing/AZ-baxdrostat/scoping-ranked-screened.md",
-    "Projects/Ongoing/AZ-baxdrostat/external-validation.md",
     "Projects/Ongoing/AZ-baxdrostat/main.md",
     "Projects/Ongoing/AZ-baxdrostat/scoping-review-llm.md",
     "Projects/Ongoing/AZ-baxdrostat/continued-development.md",
